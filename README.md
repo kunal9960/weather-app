@@ -3,7 +3,7 @@
 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/kunal9960)
 
-This Python application provides the current weather details for any city using the OpenWeatherMap API and displays it in a user-friendly GUI built with Tkinter.
+This Python application provides the current weather details for any city using the [OpenWeatherMap API](https://openweathermap.org/api) and displays it in a user-friendly GUI built with Tkinter.
 
 ![Example](https://raw.githubusercontent.com/kunal9960/weather-app/master/Weather%20app.png)
 
